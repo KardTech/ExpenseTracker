@@ -9,7 +9,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by pcarrillo on 21/10/2015.
+ * Created by Raghu Datta on 13/04/2017.
  */
 abstract class BaseExpenseRecyclerViewAdapter<VH extends RecyclerView.ViewHolder> extends RecyclerView.Adapter<VH> {
 

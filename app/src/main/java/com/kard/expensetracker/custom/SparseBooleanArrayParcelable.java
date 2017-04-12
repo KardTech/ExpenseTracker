@@ -5,7 +5,7 @@ import android.os.Parcelable;
 import android.util.SparseBooleanArray;
 
 /**
- * @author pcarrillo on 20/10/2015.
+ * @author Raghu Datta on 20/10/2015.
  */
 public class SparseBooleanArrayParcelable extends SparseBooleanArray implements Parcelable {
 

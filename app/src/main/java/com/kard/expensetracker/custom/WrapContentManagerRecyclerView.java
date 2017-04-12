@@ -12,7 +12,7 @@ import com.kard.expensetracker.BuildConfig;
 import java.lang.reflect.Field;
 
 /**
- * Created by pcarrillo on 07/10/2015.
+ * Created by Raghu Datta on 13/04/2017.
  */
 
 public class WrapContentManagerRecyclerView extends android.support.v7.widget.LinearLayoutManager {

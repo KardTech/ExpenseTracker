@@ -8,7 +8,7 @@ import com.kard.expensetracker.R;
 import com.kard.expensetracker.ui.login.WelcomePage;
 
 /**
- * Created by Pedro on 15/9/2015.
+ * Created by Raghu Datta on 13/04/2017.
  */
 public class WelcomePagerAdapter extends FragmentStatePagerAdapter {
 

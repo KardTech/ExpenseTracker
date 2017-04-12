@@ -3,7 +3,7 @@ package com.kard.expensetracker.utils;
 import java.util.Date;
 
 /**
- * Created by pcarrillo on 16/10/2015.
+ * Created by Raghu Datta on 16/10/2015.
  */
 public class DateManager {
 

@@ -46,7 +46,7 @@ import com.kard.expensetracker.utils.Util;
 import java.io.File;
 
 /**
- * Created by pcarrillo on 07/10/2015.
+ * Created by Raghu Datta on 13/04/2017.
  */
 public class HistoryFragment extends MainFragment implements BaseViewHolder.RecyclerClickListener, ISelectDateFragment {
 

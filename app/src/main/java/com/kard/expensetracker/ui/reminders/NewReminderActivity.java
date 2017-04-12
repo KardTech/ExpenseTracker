@@ -7,7 +7,7 @@ import com.kard.expensetracker.interfaces.IUserActionsMode;
 import com.kard.expensetracker.ui.BaseActivity;
 
 /**
- * Created by Pedro on 9/26/2015.
+ * Created by Raghu Datta on 13/04/2017.
  */
 public class NewReminderActivity extends BaseActivity {
 

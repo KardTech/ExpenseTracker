@@ -31,7 +31,7 @@ import com.kard.expensetracker.utils.DialogManager;
 import com.kard.expensetracker.utils.ExpensesManager;
 
 /**
- * Created by pcarrillo on 17/09/2015.
+ * Created by Raghu Datta on 13/04/2017.
  */
 public class ExpensesFragment extends MainFragment implements BaseViewHolder.RecyclerClickListener {
 

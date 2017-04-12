@@ -19,7 +19,7 @@ import com.kard.expensetracker.utils.Util;
 import java.util.List;
 
 /**
- * Created by Pedro on 9/26/2015.
+ * Created by Raghu Datta on 13/04/2017.
  */
 public class RemindersAdapter extends BaseRecyclerViewAdapter<RemindersAdapter.ViewHolder> {
 

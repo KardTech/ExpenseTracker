@@ -14,7 +14,7 @@ import com.kard.expensetracker.R;
 import com.kard.expensetracker.ui.statistics.StatisticsFragment;
 
 /**
- * Created by Pedro on 9/19/2015.
+ * Created by Raghu Datta on 9/19/2015.
  */
 public class FABScrollBehavior extends FloatingActionButton.Behavior {
 

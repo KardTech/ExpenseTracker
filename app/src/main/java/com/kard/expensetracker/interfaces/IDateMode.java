@@ -6,7 +6,7 @@ import java.lang.annotation.Retention;
 import java.lang.annotation.RetentionPolicy;
 
 /**
- * Created by Pedro on 9/22/2015.
+ * Created by Raghu Datta on 9/22/2015.
  */
 @IntDef({IDateMode.MODE_TODAY, IDateMode.MODE_WEEK, IDateMode.MODE_MONTH})
 @Retention(RetentionPolicy.SOURCE)

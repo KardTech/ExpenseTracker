@@ -22,7 +22,7 @@ import java.util.List;
 import io.realm.Realm;
 
 /**
- * Created by Pedro on 9/28/2015.
+ * Created by Raghu Datta on 9/28/2015.
  */
 public class ListProvider implements RemoteViewsService.RemoteViewsFactory {
 

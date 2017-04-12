@@ -5,7 +5,7 @@ import android.support.v7.widget.RecyclerView;
 import android.view.View;
 
 /**
- * Created by pcarrillo on 21/09/2015.
+ * Created by Raghu Datta on on 13/04/2017.
  */
 public class DefaultRecyclerViewItemDecorator extends RecyclerView.ItemDecoration {
 

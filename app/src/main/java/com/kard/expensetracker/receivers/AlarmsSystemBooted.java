@@ -7,7 +7,7 @@ import android.content.Intent;
 import com.kard.expensetracker.entities.Reminder;
 
 /**
- * Created by Pedro on 9/27/2015.
+ * Created by Raghu Datta on 9/27/2015.
  */
 public class AlarmsSystemBooted extends BroadcastReceiver {
 

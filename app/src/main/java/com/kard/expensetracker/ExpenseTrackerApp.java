@@ -4,7 +4,7 @@ import android.app.Application;
 import android.content.Context;
 
 /**
- * Created by Pedro on 15/9/2015.
+ * Created by Raghu Datta on 13/04/2017.
  */
 public class ExpenseTrackerApp extends Application {
 

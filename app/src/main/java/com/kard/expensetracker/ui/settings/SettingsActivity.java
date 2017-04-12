@@ -15,7 +15,7 @@ import android.view.View;
 import com.kard.expensetracker.R;
 
 /**
- * Created by pcarrillo on 22/09/2015.
+ * Created by Raghu Datta on 22/09/2015.
  */
 public class SettingsActivity  extends PreferenceActivity
         implements Preference.OnPreferenceChangeListener, SharedPreferences.OnSharedPreferenceChangeListener {

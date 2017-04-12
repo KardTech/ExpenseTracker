@@ -31,7 +31,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by pcarrillo on 17/09/2015.
+ * Created by Raghu Datta on 13/04/2017.
  */
 public class ReminderFragment extends MainFragment implements RemindersAdapter.RemindersAdapterOnClickHandler {
 

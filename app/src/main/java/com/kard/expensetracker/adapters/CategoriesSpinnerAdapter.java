@@ -13,7 +13,7 @@ import com.kard.expensetracker.entities.Category;
 
 
 /**
- * Created by pcarrillo on 21/09/2015.
+ * Created by Raghu Datta on 13/04/2017.
  */
 public class CategoriesSpinnerAdapter extends ArrayAdapter<Category> {
 

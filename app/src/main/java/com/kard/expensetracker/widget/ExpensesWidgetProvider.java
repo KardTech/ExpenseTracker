@@ -18,7 +18,7 @@ import com.kard.expensetracker.ui.expenses.ExpenseDetailActivity;
 import com.kard.expensetracker.utils.Util;
 
 /**
- * Created by Pedro on 9/28/2015.
+ * Created by Raghu Datta on 9/28/2015.
  */
 public class ExpensesWidgetProvider extends AppWidgetProvider {
 

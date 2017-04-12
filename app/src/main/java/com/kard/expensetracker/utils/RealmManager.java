@@ -13,7 +13,7 @@ import io.realm.RealmObject;
 import io.realm.RealmResults;
 
 /**
- * Created by Pedro on 9/20/2015.
+ * Created by Raghu Datta on 9/20/2015.
  */
 public class RealmManager {
 

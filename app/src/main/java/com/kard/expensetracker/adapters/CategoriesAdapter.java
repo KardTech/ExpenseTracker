@@ -15,7 +15,7 @@ import com.kard.expensetracker.entities.Category;
 import java.util.List;
 
 /**
- * Created by pcarrillo on 17/09/2015.
+ * Created by Raghu Datta on 13/04/2017.
  */
 public class CategoriesAdapter extends BaseRecyclerViewAdapter<CategoriesAdapter.CategoryViewHolder> {
 

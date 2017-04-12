@@ -1,15 +1,15 @@
 <resources xmlns:xliff="http://schemas.android.com/apk/res-auto">
 
-    <string name="app_name">Expense Tracker</string>
+    <string name="app_name">Vyaya</string>
     <string name="action_settings">Settings</string>
     <string name="title_activity_login">LoginActivity</string>
 
     <!--Welcome-->
 
-    <string name="welcome">Welcome!</string>
-    <string name="welcome_first_page">You will be able to keep track of your expenses all the time! Take a quick look at your expenses by day, week and month!</string>
-    <string name="second_page_desc">Take advantage of the statistics to identify where you can save money</string>
-    <string name="third_page_desc">Set reminders to alert you when your due dates are close.</string>
+    <string name="welcome">Vasudeva!</string>
+    <string name="welcome_first_page">Lets keep track of expenses all the time!! Take a quick look at your expenses per day, week and month!</string>
+    <string name="second_page_desc">Use statistics to identify where you can save money</string>
+    <string name="third_page_desc">Let me alert you by remainders when your due dates are close.</string>
     <string name="money_desc">money_icon</string>
     <string name="credit_card_content_desc">credit card icon</string>
     <string name="saving_money_content_desc">saving money icon</string>
@@ -40,7 +40,7 @@
     <string name="income_prefix">+ <xliff:g id="amount" example="100.00">%s</xliff:g></string>
     <string name="country_currency">Country Currency</string>
     <string name="pref_country_key">country_key</string>
-    <string name="default_country">US</string>
+    <string name="default_country">IN</string>
     <string name="title_activity_expense_detail">ExpenseDetailActivity</string>
     <string name="tv_title_transition">tvTotalTransition</string>
     <string name="date_placeholder">date placeholder</string>
@@ -63,15 +63,15 @@
     <string name="expense_detail">Expense Detail</string>
     <string name="same_category_this_week">Same Category This Week</string>
     <string name="already_accepted_user_key" translatable="false">already_accepted_user</string>
-    <string name="start_using_expense">Start using Expense Tracker</string>
+    <string name="start_using_expense">Start Using Expense Tracker by RD</string>
     <string name="reminders_empty">There are no reminders. Create them to remember important dates</string>
-    <string name="categories_empty">There are no categories yet. Start by creating some and be able to take advantage of the statistics.</string>
+    <string name="categories_empty">There are no categories yet. Why not to create some and take advantage of the statistics.</string>
     <string name="no_chart_data">No data available</string>
     <string name="no_categories_error">Please create categories to start saving expenses</string>
     <string name="today_expenses_total">Today: %s</string>
     <string name="no_expenses_today">No expenses today</string>
-    <string name="start">Start</string>
-    <string name="hint_category">Eg. Food</string>
+    <string name="start">Go!!</string>
+    <string name="hint_category">Eg. Beauty</string>
     <string name="error_name">Please enter a name</string>
     <string name="pick_dates">Pick a range of dates</string>
     <string name="edit_category">Edit category</string>
@@ -599,13 +599,13 @@
     </string-array>
 
     <string name="title_activity_help">Help Activity</string>
-    <string name="help_text">You can delete Expenses, Categories and Reminders by holding an item and a menu will let you select one or more items to delete\n\nChoose the date you wish to create the expenses in the New Dialog Expense by tapping the date\n\nCreate reminders to set a notification for the specified date and hour.\n\nEdit Categories name by tapping the item once.\n\nAny doubts or ideas don\'t doubt to contact carrillochero6@gmail.com</string>
-    <string name="default_date_format">MM/dd/yyyy</string>
+    <string name="help_text">You can delete Expenses, Categories and Reminders by holding an item and a menu will let you select one or more items to delete\n\nChoose the date you wish to create the expenses in the New Dialog Expense by tapping the date\n\nCreate reminders to set a notification for the specified date and hour.\n\nEdit Categories name by tapping the item once.\n\nAny doubts or ideas don\'t doubt to contact sraghudatta94@gmail.com</string>
+    <string name="default_date_format">dd/MM/yyyy</string>
     <string name="date_format_key">date_format_key</string>
     <string name="date_format">Date Format</string>
     <string name="export">Export</string>
     <string name="write_external_message">Expense Tracker would like to create Files in order to export your expenses data</string>
     <string name="ok">Ok</string>
-    <string name="expenses_mail_content">Expenses Record by Expense Tracker</string>
+    <string name="expenses_mail_content">Vasudeva Record by Expense Tracker</string>
     <string name="share_title">Send your record to your mail</string>
 </resources>

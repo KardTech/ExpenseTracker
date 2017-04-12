@@ -21,7 +21,7 @@ import java.util.Calendar;
 import java.util.Date;
 
 /**
- * Created by pcarrillo on 13/10/2015.
+ * Created by Raghu Datta on 13/10/2015.
  */
 public class SelectDateFragment extends Fragment implements View.OnClickListener{
 

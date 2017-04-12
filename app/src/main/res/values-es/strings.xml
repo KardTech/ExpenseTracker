@@ -40,7 +40,7 @@
     <string name="income_prefix">+ <xliff:g id="amount" example="100.00">%s</xliff:g></string>
     <string name="country_currency">Moneda del país</string>
     <string name="pref_country_key">country_key</string>
-    <string name="default_country">US</string>
+    <string name="default_country">India</string>
     <string name="title_activity_expense_detail">Detalle del Gasto</string>
     <string name="tv_title_transition">tvTotalTransition</string>
     <string name="date_placeholder">placeholder de la fecha</string>
@@ -75,7 +75,7 @@
     <string name="edit_category">Editar Categoría</string>
     <string name="history">Historial</string>
     <string name="action_help">Ayuda</string>
-    <string name="help_text">Puedes borrar Gastos, Categorías y Recordatorios si mantienes presionado un item. Puedes seleccionar varios elementos al mismo tiempo.\n\nElige la fecha en la que deseas crear el gasto en la ventana de Nuevo Gasto.\n\nCrea recordatorios que se crearan para ayudarte a recordar fechas importantes.\n\nEdita el nombre de la categoría presionando en un item.\n\nAlguna duda o sugerencia no dudes en contactar carrillochero6@gmail.com</string>
+    <string name="help_text">Puedes borrar Gastos, Categorías y Recordatorios si mantienes presionado un item. Puedes seleccionar varios elementos al mismo tiempo.\n\nElige la fecha en la que deseas crear el gasto en la ventana de Nuevo Gasto.\n\nCrea recordatorios que se crearan para ayudarte a recordar fechas importantes.\n\nEdita el nombre de la categoría presionando en un item.\n\nAlguna duda o sugerencia no dudes en contactar sraghudatta94@gmail.com</string>
     <string name="export">Exportar</string>
     <string name="write_external_message">Expense Tracker creara archivos en memoria para poder exportar tu data.</string>
     <string name="ok">Ok</string>
