@@ -11,8 +11,8 @@
     <color name="colorAccentRed">#FF5252</color>
     <color name="colorAccentGreen">#76FF03</color>
 
-    <color name="primary">#3F51B5</color>
-    <color name="primary_dark">#303F9F</color>
+    <color name="primary">#b2b6cf</color>
+    <color name="primary_dark">#9f4c30</color>
     <color name="primary_light">#C5CAE9</color>
     <color name="accent">@color/primary</color>
     <color name="primary_text">#212121</color>
@@ -22,10 +22,10 @@
 
     <color name="grey">#4d4d4d</color>
     <color name="grey_transparent">#20000000</color>
-    <color name="teal">#00796B</color>
+    <color name="teal">#4fae5d</color>
     <color name="white9f">#9FFFFFFF</color>
     <color name="white">#FFFFFF</color>
     <color name="purple">#7E57C2</color>
-    <color name="blue_light">#039BE5</color>
+    <color name="blue_light">#c1c0d1</color>
 
 </resources>

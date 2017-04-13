@@ -33,7 +33,7 @@
     <string name="description">Description</string>
     <string name="add_new_expense">Add new Expense</string>
     <string name="optional_description">Description (Optional)</string>
-    <string name="total">Total</string>
+    <string name="total">Total Expense</string>
     <string name="confirm_delete_items">Are you sure to delete this item(s)</string>
     <string name="confirm_delete_expense">Are you sure you want to delete this expense?</string>
     <string name="expense_prefix">- <xliff:g id="amount" example="100.00">%s</xliff:g></string>
@@ -599,7 +599,7 @@
     </string-array>
 
     <string name="title_activity_help">Help Activity</string>
-    <string name="help_text">You can delete Expenses, Categories and Reminders by holding an item and a menu will let you select one or more items to delete\n\nChoose the date you wish to create the expenses in the New Dialog Expense by tapping the date\n\nCreate reminders to set a notification for the specified date and hour.\n\nEdit Categories name by tapping the item once.\n\nAny doubts or ideas don\'t doubt to contact sraghudatta94@gmail.com</string>
+    <string name="help_text">Kindly create Categories first and based on it create Expenses. You can delete Expenses/Categories/Remainders by holding it and a menu will let you select one or more items to delete. \n\nClick on the date to select new dates, You will get a date picker\n\n You can create reminders to set a notification for the specified date and hour.\n\nYou can edit Categories name by tapping the item once.\n\nAny issues/Bugs/ideas don\'t hesitate to contact sraghudatta94@gmail.com Or kardtech@gmail.com</string>
     <string name="default_date_format">dd/MM/yyyy</string>
     <string name="date_format_key">date_format_key</string>
     <string name="date_format">Date Format</string>
